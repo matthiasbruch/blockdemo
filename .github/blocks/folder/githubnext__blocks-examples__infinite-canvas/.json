@@ -5,13 +5,36 @@
       "type": "text",
       "text": "Start typing or grab a file",
       "position": [
-        2290,
-        2360
+        2610,
+        2390
       ],
       "dimensions": [
         200,
         100
       ]
+    },
+    "1": {
+      "type": "file",
+      "path": "Readme.md",
+      "position": [
+        2070,
+        2190
+      ],
+      "dimensions": [
+        500,
+        360
+      ],
+      "block": {
+        "type": "file",
+        "id": "code-block",
+        "title": "Code block",
+        "description": "A basic code block",
+        "owner": "githubnext",
+        "repo": "blocks-examples",
+        "sandbox": false,
+        "entry": "/src/blocks/file-blocks/code/index.tsx"
+      },
+      "id": 1
     }
   }
 }
