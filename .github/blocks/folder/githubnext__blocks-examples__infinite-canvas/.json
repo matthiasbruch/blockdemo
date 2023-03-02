@@ -1,0 +1,43 @@
+{
+  "items": {
+    "0": {
+      "id": 0,
+      "type": "text",
+      "text": "Test",
+      "position": [
+        2260,
+        2250
+      ],
+      "dimensions": [
+        200,
+        100
+      ]
+    },
+    "1": {
+      "type": "text",
+      "text": "Another text",
+      "position": [
+        2400,
+        2450
+      ],
+      "dimensions": [
+        200,
+        100
+      ],
+      "id": 1
+    },
+    "2": {
+      "type": "text",
+      "text": "soo much text - such wow",
+      "position": [
+        2540,
+        2260
+      ],
+      "dimensions": [
+        200,
+        100
+      ],
+      "id": 2
+    }
+  }
+}
